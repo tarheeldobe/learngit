@@ -1,2 +1,3 @@
 Second new text file.
 Adding more changes in the feature/FeatureBranch2 branch.
+And once more adding changes to the file within the feature branch.
